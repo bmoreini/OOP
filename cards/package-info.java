@@ -5,4 +5,4 @@
  * @author Bram
  *
  */
-package edu.vtc.oop.bmoreinis;
+package edu.vtc.oop.bmoreinis.cards;
