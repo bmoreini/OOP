@@ -1,6 +1,6 @@
 package edu.vtc.oop.bmoreinis;
 
-public class unit2exercises {
+public class isPrime {
 	
 	public static void main(String[] args) {
 		System.out.print(isPrime(7));
